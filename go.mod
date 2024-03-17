@@ -1,4 +1,4 @@
-module DiegoAndriano/healthchecker
+module github.com/DiegoAndriano/healthchecker
 
 go 1.20
 
